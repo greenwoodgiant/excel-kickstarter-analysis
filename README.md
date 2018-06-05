@@ -1,6 +1,6 @@
-## Kickstarter Analysis with Excel
+# Kickstarter Analysis with Excel
 
-# Insights Gained from Analysis
+## Insights Gained from Analysis
 
 Kickstarter is a good place for new entertainment ventures, as the bulk of successful projects fall in the Theater, Film/TV, and Music categories. 
 
@@ -8,7 +8,7 @@ Documentaries and Rock-related projects are likelier than others to succeed, hav
 
 Spring/Early Summer is the better time to start an Entertainment project, as the number of successful projects rise while the number of cancelled or failed projects remains relatively stable.
 
-# Limitations of this Dataset
+## Limitations of this Dataset
 
 The overwhelming majority of projects are from United States, so any insights gained are not as helpful outside the US. We would want to either focus the question down to just within the US and remove other countries, or grow the data set so other countries have more representation.
 
